@@ -8,7 +8,8 @@ https://github.com/prubel/datasciencecoursera.git
 
 ## One new Section
 
-<fill me in with 1+1
+2
+
 # I'm big
 * List item 1
 
