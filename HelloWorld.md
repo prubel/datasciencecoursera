@@ -3,6 +3,9 @@ hello world, we are going to win at github so much that we'll get tired of winni
 
 # Now with exciting new changes
 This is amazing!
+So amahzing
+
+we had Lynerd Skynerd for all our english classes
 
 
 ## With a new section
